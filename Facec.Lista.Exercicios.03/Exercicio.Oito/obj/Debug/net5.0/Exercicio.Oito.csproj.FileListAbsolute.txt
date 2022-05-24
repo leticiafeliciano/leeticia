@@ -1,0 +1,16 @@
+C:\Users\facec.lab04\source\repos\Facec.Lista.Exercicios.03\Exercicio.Oito\bin\Debug\net5.0\Exercicio.Oito.exe
+C:\Users\facec.lab04\source\repos\Facec.Lista.Exercicios.03\Exercicio.Oito\bin\Debug\net5.0\Exercicio.Oito.deps.json
+C:\Users\facec.lab04\source\repos\Facec.Lista.Exercicios.03\Exercicio.Oito\bin\Debug\net5.0\Exercicio.Oito.runtimeconfig.json
+C:\Users\facec.lab04\source\repos\Facec.Lista.Exercicios.03\Exercicio.Oito\bin\Debug\net5.0\Exercicio.Oito.runtimeconfig.dev.json
+C:\Users\facec.lab04\source\repos\Facec.Lista.Exercicios.03\Exercicio.Oito\bin\Debug\net5.0\Exercicio.Oito.dll
+C:\Users\facec.lab04\source\repos\Facec.Lista.Exercicios.03\Exercicio.Oito\bin\Debug\net5.0\Exercicio.Oito.pdb
+C:\Users\facec.lab04\source\repos\Facec.Lista.Exercicios.03\Exercicio.Oito\obj\Debug\net5.0\Exercicio.Oito.csproj.AssemblyReference.cache
+C:\Users\facec.lab04\source\repos\Facec.Lista.Exercicios.03\Exercicio.Oito\obj\Debug\net5.0\Exercicio.Oito.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\facec.lab04\source\repos\Facec.Lista.Exercicios.03\Exercicio.Oito\obj\Debug\net5.0\Exercicio.Oito.AssemblyInfoInputs.cache
+C:\Users\facec.lab04\source\repos\Facec.Lista.Exercicios.03\Exercicio.Oito\obj\Debug\net5.0\Exercicio.Oito.AssemblyInfo.cs
+C:\Users\facec.lab04\source\repos\Facec.Lista.Exercicios.03\Exercicio.Oito\obj\Debug\net5.0\Exercicio.Oito.csproj.CoreCompileInputs.cache
+C:\Users\facec.lab04\source\repos\Facec.Lista.Exercicios.03\Exercicio.Oito\obj\Debug\net5.0\Exercicio.Oito.dll
+C:\Users\facec.lab04\source\repos\Facec.Lista.Exercicios.03\Exercicio.Oito\obj\Debug\net5.0\refint\Exercicio.Oito.dll
+C:\Users\facec.lab04\source\repos\Facec.Lista.Exercicios.03\Exercicio.Oito\obj\Debug\net5.0\Exercicio.Oito.pdb
+C:\Users\facec.lab04\source\repos\Facec.Lista.Exercicios.03\Exercicio.Oito\obj\Debug\net5.0\Exercicio.Oito.genruntimeconfig.cache
+C:\Users\facec.lab04\source\repos\Facec.Lista.Exercicios.03\Exercicio.Oito\obj\Debug\net5.0\ref\Exercicio.Oito.dll

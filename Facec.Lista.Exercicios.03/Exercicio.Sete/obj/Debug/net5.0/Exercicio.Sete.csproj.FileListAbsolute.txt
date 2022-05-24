@@ -1,0 +1,16 @@
+C:\Users\facec.lab04\source\repos\Facec.Lista.Exercicios.03\Exercicio.Sete\bin\Debug\net5.0\Exercicio.Sete.exe
+C:\Users\facec.lab04\source\repos\Facec.Lista.Exercicios.03\Exercicio.Sete\bin\Debug\net5.0\Exercicio.Sete.deps.json
+C:\Users\facec.lab04\source\repos\Facec.Lista.Exercicios.03\Exercicio.Sete\bin\Debug\net5.0\Exercicio.Sete.runtimeconfig.json
+C:\Users\facec.lab04\source\repos\Facec.Lista.Exercicios.03\Exercicio.Sete\bin\Debug\net5.0\Exercicio.Sete.runtimeconfig.dev.json
+C:\Users\facec.lab04\source\repos\Facec.Lista.Exercicios.03\Exercicio.Sete\bin\Debug\net5.0\Exercicio.Sete.dll
+C:\Users\facec.lab04\source\repos\Facec.Lista.Exercicios.03\Exercicio.Sete\bin\Debug\net5.0\Exercicio.Sete.pdb
+C:\Users\facec.lab04\source\repos\Facec.Lista.Exercicios.03\Exercicio.Sete\obj\Debug\net5.0\Exercicio.Sete.csproj.AssemblyReference.cache
+C:\Users\facec.lab04\source\repos\Facec.Lista.Exercicios.03\Exercicio.Sete\obj\Debug\net5.0\Exercicio.Sete.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\facec.lab04\source\repos\Facec.Lista.Exercicios.03\Exercicio.Sete\obj\Debug\net5.0\Exercicio.Sete.AssemblyInfoInputs.cache
+C:\Users\facec.lab04\source\repos\Facec.Lista.Exercicios.03\Exercicio.Sete\obj\Debug\net5.0\Exercicio.Sete.AssemblyInfo.cs
+C:\Users\facec.lab04\source\repos\Facec.Lista.Exercicios.03\Exercicio.Sete\obj\Debug\net5.0\Exercicio.Sete.csproj.CoreCompileInputs.cache
+C:\Users\facec.lab04\source\repos\Facec.Lista.Exercicios.03\Exercicio.Sete\obj\Debug\net5.0\Exercicio.Sete.dll
+C:\Users\facec.lab04\source\repos\Facec.Lista.Exercicios.03\Exercicio.Sete\obj\Debug\net5.0\refint\Exercicio.Sete.dll
+C:\Users\facec.lab04\source\repos\Facec.Lista.Exercicios.03\Exercicio.Sete\obj\Debug\net5.0\Exercicio.Sete.pdb
+C:\Users\facec.lab04\source\repos\Facec.Lista.Exercicios.03\Exercicio.Sete\obj\Debug\net5.0\Exercicio.Sete.genruntimeconfig.cache
+C:\Users\facec.lab04\source\repos\Facec.Lista.Exercicios.03\Exercicio.Sete\obj\Debug\net5.0\ref\Exercicio.Sete.dll
